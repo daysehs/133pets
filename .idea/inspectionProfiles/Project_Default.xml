@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="unittest_contas.numero2" />
+          <option value="unittest_contas.número1" />
+          <option value="unittest_contas.numero1" />
+          <option value="teste_de_unidade.resultad_obtido" />
+          <option value="teste_de_unidade.resultado_esperado" />
+          <option value="teste_de_unidade.self" />
+          <option value="pytest_contas.resultado_obtido" />
+          <option value="pytest_contas.comprimento" />
+          <option value="pytest_contas.largura" />
+          <option value="pytest_contas.resultado_esperado" />
+          <option value="pytest_contas.main" />
+          <option value="pytest_contas.numero2" />
+          <option value="pytest_contas.numero1" />
+          <option value="pytest_contas.lado" />
+          <option value="requests" />
+          <option value="pytest" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
